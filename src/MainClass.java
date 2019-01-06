@@ -3,8 +3,7 @@ import practice_class.practice_interface.Child;
 public class MainClass {
 
     public static void main(String[] args){
-        Child c=  new Child();
-        c.must();
+    	System.out.print("HELLO WORLD");
     }
 
 }
